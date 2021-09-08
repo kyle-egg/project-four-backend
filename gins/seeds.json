@@ -1,0 +1,18 @@
+[
+{
+  "model": "gins.gin",
+  "pk": 1,
+  "fields": {
+    "name": "Otterbeck Distillery Cotton Gin Strawberry & Pinkpeppercorn",
+    "bio": "Teaming up with Annabel’s Deliciously British Strawberries, the distillers at Otterbeck Distillery have created an exquisite craft gin that’s bursting with the summer flavours of fresh British strawberries and the citrusy spice of pink peppercorns.",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Otterbeck-Strawberry_510x510.png?v=1629968814",
+    "price": 37.95,
+    "origin": "Yorkshire, England",
+    "botanicals": "Juniper, English coriander seed, angelica root, orris root, pink peppercorns, garden mint, nettle leaves, orange peel, lemon peel, yarrow flowers, spruce needles, lemongrass along with an organic stra",
+    "tasting_notes": "This gin is full of plump, juicy strawberry flavours and delicate spice notes, they are joined by juniper on the nose and palate. The finish is then long and fruity.",
+    "perfect_gt": "Serve with a premium Mediterranean tonic water and garnish with fresh strawberries and basil."
+  }
+}
+]

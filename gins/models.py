@@ -12,7 +12,12 @@ class Gin(models.Model):
     botanicals = models.CharField(max_length=200)
     tasting_notes = models.TextField(max_length=500)
     perfect_gt = models.CharField(max_length=200)
-
+    flavour = models.CharField(max_length=50)
+    liked_by = models.ManyToManyField(
+        'jwt_auth.User',
+        related_name='liked_gins',
+        blank=True
+    )
 
     def __str__(self):
         return f'{self.name}'

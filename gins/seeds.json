@@ -12,7 +12,891 @@
     "origin": "Yorkshire, England",
     "botanicals": "Juniper, English coriander seed, angelica root, orris root, pink peppercorns, garden mint, nettle leaves, orange peel, lemon peel, yarrow flowers, spruce needles, lemongrass along with an organic stra",
     "tasting_notes": "This gin is full of plump, juicy strawberry flavours and delicate spice notes, they are joined by juniper on the nose and palate. The finish is then long and fruity.",
-    "perfect_gt": "Serve with a premium Mediterranean tonic water and garnish with fresh strawberries and basil."
+    "perfect_gt": "Serve with a premium Mediterranean tonic water and garnish with fresh strawberries and basil.",
+    "flavour": "Spiced, Fruit",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 2,
+  "fields": {
+    "name": "Otterbeck Distillery Captain Tom's London Dry Gin",
+    "bio": "With refreshing citrus and aromatic savoury tones, this remarkable craft gin was created with the national hero, Captain Sir Tom Moore. Inspired by the hedgerows Captain Sir Tom would ride his motorcycle past in his youth, it’s a beautiful gin of incredible quality.",
+    "size": 70,
+    "abv": 40.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Otterbeck-Captain-Tom_510x510.png?v=1629968851",
+    "price": 35.95,
+    "origin": "Yorkshire, England",
+    "botanicals": "Juniper, rowan berries, English coriander seed, fresh thyme, angelica root, fresh rosemary, orris root, nettle leaves, orange peel, garden mint and lemon peel.",
+    "tasting_notes": "Herb and citrus notes come through on the nose, they are joined by a rich, earthy backbone of juniper on the palate. The finish is long, bright and refreshing.",
+    "perfect_gt": "Serve with a premium Indian tonic water and garnish with fresh blackberries or raspberries and mint.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 4,
+  "fields": {
+    "name": "Tarquin's Cornish Dry Gin",
+    "bio": "This multi-award winning spirit may be one of the UK’s best loved craft gins, but every hand-waxed bottle is still produced with the same care and attention as when Tarquin first started out. Distilled in small batches in four copper pot stills on the wild Cornish coast, this gin is a wonderful modern take on a classic London Dry.",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/TARQUIN_S-CORNISH-DRY-GIN-ABV-42-70CL_350x350.png?v=1591881031",
+    "price": 33.0,
+    "origin": "Cornwall, England",
+    "botanicals": "Juniper, coriander seed, liquorice root, angelica root, orris root, green cardamon, cinnamon, bitter almonds, fresh orange, lemon & grapefruit peel, violets.",
+    "tasting_notes": "Beautifully smooth and bright. Touch of sherbety sweetness but still classically dry and juniper-led. Big hit of fresh citrus, giving it a full mouth-feel leading on to some gentle spice warmth. Lingering floral complexity at the end.",
+    "perfect_gt": "Premium tonic garnished with a grapefruit wedge and a fresh thyme sprig.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 5,
+  "fields": {
+    "name": "Tarquin's Pink Grapefruit & Elderflower Gin",
+    "bio": "Inspired by Cornwall’s luscious hedgerows in full bloom, this gin is brimming with beautiful notes of elderflower and juicy bursts of pink grapefruit. Each sip will transport you to the Cornish countryside at the height of spring.",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Tarquins-PinkGrapefruit_350x350.png?v=1615202096",
+    "price": 36.0,
+    "origin": "Cornwall, England",
+    "botanicals": "Juniper, elderflower, pink grapefruit and a range of classic London Dry botanicals.",
+    "tasting_notes": "Juniper is accompanied by mouthwatering floral and citrus notes on the nose. Elderflower and zesty pink grapefruit flavours can be found on the palate along with a hint of Eastern spice. The finish is crisp and tart and wonderfully fragrant.",
+    "perfect_gt": "Serve with a premium elderflower tonic water and garnish with fresh pink grapefruit.",
+    "flavour": "Citrus, Fruit",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 6,
+  "fields": {
+    "name": "Amazzoni Rio Negro Gin",
+    "bio": "The second gin to come from the Amázzoni Distillery, creators of our July 2020 Gin of the Month, this is a much stronger, more intense expression than their first edition, which our members received. Including 5 times more lemon peel, juniper and coriander, it’s a lip-smacking Brazillian craft gin that’s a must-try for any gin lover.",
+    "size": 70,
+    "abv": 51.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Amazzoni-RioNegro_REPLACE_350x350.png?v=1616686158",
+    "price": 50.0,
+    "origin": "Paraíba Valley, Rio de Janeiro State, Brazil",
+    "botanicals": "Juniper, laurel, Brazil nut, coriander, cocoa, pink pepper, lemon, Victoria regia and tangerine.",
+    "tasting_notes": "Punchy spice and juniper notes caress the nose and continue onto the palate where they are joined by herb and nutty tones. The finish is elevated by elegant floral and fragrant citrus flavours.",
+    "perfect_gt": "With its high ABV, this gin is perfect for cocktail making and works just as well with a premium tonic water and slices of lime, to garnish.",
+    "flavour": "Herbs, Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 7,
+  "fields": {
+    "name": "Blackwater No. 5 Gin",
+    "bio": "Distilled in Waterford, Ireland, this classic London Dry is delectably elegant and crisp. Made with local water, high-quality botanicals and the finest spirit, it’s an expertly balanced craft gin that’s brimming with clean, fragrant flavours that make each sip an absolute joy.",
+    "size": 50,
+    "abv": 41.5,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Blackwater-No5_1020x1020.png?v=1621515747",
+    "price": 29.44,
+    "origin": "Waterford, Ireland",
+    "botanicals": "Juniper, coriander, fresh lemon, cinnamon and range of eight other carefully selected botanicals.",
+    "tasting_notes": "Juniper-forward throughout, this gin has a wonderfully fragrant nose. On the smooth palate, juniper is joined by hints of coriander, citrus and subtle floral notes. The finish is warm with long-lasting touches of spice.",
+    "perfect_gt": "This gin is great for cocktails and is just as delicious with a premium tonic water and garnished with fresh lime.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 8,
+  "fields": {
+    "name": "Seppeltsfield Rd Distillers Barossa Dry Gin",
+    "bio": "This gorgeous, award-winning gin from Australia’s Barossa Valley is bright and rich with those complex juniper and citrus notes that we love and a delectable hint of lavender. The Seppeltsfield Road Distillers’ own take on London Dry Gin, this tasty tipple is a must-try.",
+    "size": 50,
+    "abv": 41.35,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/SeppeltsfieldBarossaDry-500ml_1_510x510.png?v=1628607369",
+    "price": 37.77,
+    "origin": "Barossa Valley, Australia",
+    "botanicals": "Juniper, grapefruit, lavender, coriander and pink peppercorns.",
+    "tasting_notes": "Citrus, floral touches of lavender and juniper come through on the nose and continue through to the palate, where they are met by mouthwatering pink peppercorn notes. The finish is long and delicious.",
+    "perfect_gt": "Serve this gin with a premium tonic water and garnish with a grapefruit peel. It’s also perfect for a Martinis.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 9,
+  "fields": {
+    "name": "Shetland Reel Ocean Sent Gin",
+    "bio": "This gin celebrates the abundant seas around the Shetland Islands. Using local bladderwrack, a nutritious seaweed that is full of deep flavour, Shetland Reel have distilled a gin that really captures the essence of those dramatic and brisk waters that surround them.",
+    "size": 70,
+    "abv": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/SHETLAND-REEL-OCEAN-SENT-70CL_1020x1020.png?v=1591880714",
+    "price": 38.95,
+    "origin": "Haroldswick, Shetland Islands",
+    "botanicals": "The core botanicals of this gin are juniper, bladderwrack, coriander, lemon peel and orange peel.",
+    "tasting_notes": "On the nose, juniper leads a nuanced balance of spice and salt. These notes continue on the palate where they are joined by warmer spice tones. The finish is long-lasting and full of fresh ocean air.",
+    "perfect_gt": "Drink with a premium tonic water, a slice of pink grapefruit and combination of fresh mint and lavender.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 10,
+  "fields": {
+    "name": "Chemist Navy Strength Gin",
+    "bio": "This remarkable Navy Strength Gin from Chemist Spirits in North Carolina is created using Spanish sweet oranges and Thai ginger, inspired by the far-travelling spice ships on which Navy Strength Gin was often found. There is nothing else in the world quite like this delicious, multi-award-winning gin.",
+    "size": 70,
+    "abv": 57.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Chemist-NavyStrength_510x510.png?v=1624884172",
+    "price": 47.76,
+    "origin": "North Carolina, America",
+    "botanicals": "Juniper, Thai ginger, Spanish sweet oranges, fresh mint, lemon, grapefruit and a range of other carefully selected botanicals.",
+    "tasting_notes": "Packing a delightful punch, this gin is bright and silky-smooth. Juniper and orange citrus notes can be found on the nose and the palate, where they are joined by touches of zesty, fragrant ginger. The finish is long, fresh and moreish.",
+    "perfect_gt": "With it’s high ABV, this gin is perfect for cocktails. We like to enjoy it in a Gimlet, Tom Collins or a Martini for a real treat.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 11,
+  "fields": {
+    "name": "Signature Cuckoo Gin",
+    "bio": "Inspired by the local legend of the Brindle cuckoo, this remarkable craft gin is distilled with ingredients local to Holmes Farm in Lancashire, Brindle Distillery’s home. It is a beautiful tipple that really captures the essence of its countryside surroundings.",
+    "size": 70,
+    "abv": 43.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Cuckoo-Signature_1020x1020.png?v=1619519298",
+    "price": 38.0,
+    "origin": "Lancashire, England",
+    "botanicals": "Juniper, coriander seeds, cinnamon, orange, liquorice, lemon and grapefruit.",
+    "tasting_notes": "Juniper and hints of citrus play around the nose and those citrus notes develop further on the palate where they are met by warm spice notes. The finish has a moreish, peppery kick that is utterly delicious.",
+    "perfect_gt": "Serve this gin with a premium tonic water and garnish with fresh citrus fruit.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 12,
+  "fields": {
+    "name": "Brass Lion Navy Strength Gin",
+    "bio": "This award-winning gin’s ABV is a whopping 57%, making it the perfect tipple for the lion-hearted gin fans out there. For this sublime craft gin, Brass Lion Distillery has taken inspiration from Singapore’s rich heritage as a key port city for trade across the globe. It is utterly divine!",
+    "size": 50,
+    "abv": 57.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/BrassLion-NavyStrength_1020x1020.png?v=1626793249",
+    "price": 42.0,
+    "origin": "Singapore",
+    "botanicals": "Juniper, galangal, lavender, Kaffir lime leaves, rosemary, cinnamon, tamarind, lemon peel, coriander seed, ginger, chrysanthemum, lime peel, mint, orris root, torch ginger flower  and mandarin peel.",
+    "tasting_notes": "Citrus, floral, ginger and lemongrass play on the nose and continue onto the palate where they are joined by sweeter orange citrus notes and rich juniper tones. The finish is long and smooth, with complex hints of citrus, floral and spice flavours.",
+    "perfect_gt": "Serve with a premium yuzu tonic water and garnish with a pinch of salt and lemon peel.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 13,
+  "fields": {
+    "name": "Salcombe Gin Start Point",
+    "bio": "This remarkable gin from Devon was our February 2018 Gin of the Month, one sip and you will know why. This gin’s smooth and complex layering of flavour is an absolute delight!",
+    "size": 70,
+    "abv": 44.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/SALCOMBE-GIN-sig-70CL_1020x1020.png?v=1591955688",
+    "price": 44.38,
+    "origin": "Devon, England",
+    "botanicals": "13 carefully selected botanicals including juniper, coriander seed and fresh citruses.",
+    "tasting_notes": "Floral and citrus aromas lead earthy juniper across the nose and palate. Citrus flavours then elevate an array of warming spice notes to provide a truly rich and balanced experience.",
+    "perfect_gt": "We recommend serving with a premium tonic water and a slice of grapefruit or simply poured over ice.",
+    "flavour": "Classic, Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 14,
+  "fields": {
+    "name": "Four Pillars x Hernö Dry Island Gin",
+    "bio": "A Craft Gin Club UK exclusive, this collaboration between two of the world’s most awarded distilleries combines botanicals from both hemispheres.",
+    "size": 70,
+    "abv": 42.8,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/7._Dry_Island_Gin_1080x1080_67084fea-5b51-4a6d-8f72-b35f0f185345_1020x1020.jpg?v=1542725860",
+    "price": 38.83,
+    "origin": "Healesville, Australia",
+    "botanicals": "Juniper, coriander seed, meadowsweet, river mint, roasted wattleseed, strawberry gum, lemon myrtle",
+    "tasting_notes": "A bright, clean classic London Dry gin, with citrus notes and a cut-grass character.",
+    "perfect_gt": "Classic tonic with a lemon slice and sprig of thyme.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 15,
+  "fields": {
+    "name": "Whitby Gin The Original Edition",
+    "bio": "Whitby Gin The Original Edition is a stunning expression of the seaside town of Whitby and the gorgeous countryside that surrounds it. Made with foraged botanicals from the Yorkshire coastline and its heather-topped moors, this award-winning tipple is a true taste of the region. You need to give it a try!",
+    "size": 70,
+    "abv": 41.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Whitby_Original_510x510.png?v=1628608579",
+    "price": 41.0,
+    "origin": "Yorkshire, England",
+    "botanicals": "Juniper, sugar kelp, honey, heather and a secret range of 12 traditional gin botanicals.",
+    "tasting_notes": "Clean and fresh throughout, this delicious gin is led by juniper on the nose. On the palate, those juniper notes are joined by rich, savoury tones from the kelp and sweet, fragrant floral aromas from the heather and the honey. All of which last long into the finish.",
+    "perfect_gt": "Pair this wonderful gin with a good Mediterranean tonic water, a slice of fresh pink grapefruit and sprig of rosemary.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 16,
+  "fields": {
+    "name": "Three Wrens Bison Grass Gin",
+    "bio": "Made with sweetgrass, which is also known as ‘Bison Grass’, that has been grown from seed at the distillery, this remarkable, award-winning craft gin from the team at Three Wrens is like nothing else.",
+    "size": 70,
+    "abv": 41.5,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/ThreeWrens-BisonGrass_1020x1020.png?v=1617869405",
+    "price": 41.0,
+    "origin": "Cheshire, England",
+    "botanicals": "Juniper, sweetgrass, lemon thyme, grains of paradise, apple mint, fresh lime and five more carefully selected botanicals.",
+    "tasting_notes": "Notes of fresh hey and green citrus come through on the nose and are joined by a rich hit of juniper on the palate. Herbaceous tones come through in the long, sumptuous finish.",
+    "perfect_gt": "Serve with a premium elderflower tonic water and garnish with a slice of apple.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 17,
+  "fields": {
+    "name": "Sabatini Gino ° Sabatini Gino °",
+    "bio": "Bringing together Tuscan olive leaves, sage, lavender, thyme and lemon verbena, this zero-alcohol gin is a beautiful expression of the Italian landscape. Made by Sabatini Gin, the amazing distillery behind our January 2018 Gin of the Month, it is an alcohol-free delight!",
+    "size": 70,
+    "abv": 0.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Sabatini_1020x1020.png?v=1623947445",
+    "price": 30.0,
+    "origin": "London, England",
+    "botanicals": "Lemon verbena, sage, olive leaves, lavender and thyme.",
+    "tasting_notes": "A delicious bouquet of herb and citrus notes come through on the nose and continue onto the palate where they are joined by fragrant olive and complex thyme tones. The finish is long and herbaceous.",
+    "perfect_gt": "Serve with a premium tonic water and a twist of fresh lemon peel.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 18,
+  "fields": {
+    "name": "QVT Dry Gin",
+    "bio": "A beautiful expression of its home in the heart of Provence, France, this is a wonderfully bright and floral gin that’s laced with delicious herb notes that will transport you to that gorgeous, lavender-strewn region of Europe.",
+    "size": 70,
+    "abv": 43.7,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/QVT-Dry_510x510.png?v=1617210691",
+    "price": 38.83,
+    "origin": "Provence, France",
+    "botanicals": "Juniper, lavender, cardamom, lemon, rose-flower, grape and rosemary.",
+    "tasting_notes": "Floral notes are accompanied by juniper and woody herb tones on the nose. They all continue onto the bright and warm palate, where they are met by touches of citrus. The finish is long and delightfully fragrant.",
+    "perfect_gt": "Serve with a premium Mediterranean tonic water and a garnish with lemon and rosemary.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 19,
+  "fields": {
+    "name": "Kalevala Blue Label Navy Strength Gin",
+    "bio": "This remarkable organic gin from the distillery behind our February 2017 Gin of the Month is made by adding Jerusalem artichokes to Kalevala’s traditional London dry botanicals. It’s a stunning tipple that’s fragrant and aromatic and is sure to bring a smile to the face of any true gin lover.",
+    "size": 50,
+    "abv": 51.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/kalevala-blue_1020x1020.png?v=1598342806",
+    "price": 33.0,
+    "origin": "Karelia, Finland",
+    "botanicals": "Jerusalem artichoke, juniper and sea buckthorn along with a closely guarded botanical blend.",
+    "tasting_notes": "This is a uniquely earthy and sweet gin with a rich texture and fresh pine aromas. This spirit balances ginger and juniper notes with hints of mint and raspberry. The finish is smooth and full of character. Delicious!",
+    "perfect_gt": "Serve with a premium tonic water and garnish with a slice of lemon.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 20,
+  "fields": {
+    "name": "ELG Gin No.1 ELG Gin No.1",
+    "bio": "Our March 2018 Gin of the Month, this simple yet elegant gin from Denmark is made with just three fabulous botanicals: juniper, coriander and Danish carrots. It’s a wonderful gin that’s juniper-forward and delightfully complex. You need to give it a try.",
+    "size": 50,
+    "abv": 47.2,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/ELG1-Gin_1020x1020.png?v=1606126107",
+    "price": 35.5,
+    "origin": "Fredensborg, Denmark",
+    "botanicals": "Juniper, coriander and Danish carrots.",
+    "tasting_notes": "The nose is full of fresh, clean, juniper notes which continue onto a palate that has very subtle hints of herbaceous coriander and sweet, earthy carrot. Juniper continues to lead through to the long and refreshing finish.",
+    "perfect_gt": "Serve neat, with ice or in a G&T with a premium tonic water and garnish with a slice of orange.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 21,
+  "fields": {
+    "name": "Salcombe New London Light",
+    "bio": "This refreshing and bold non-alcoholic spirit from the marvellous team at Salcombe Distilling Co. has a delicious and intriguing blend of botanicals that includes habanero, ginger and lemongrass. Named after the lighthouse at the entrance of America’s famed Long Island Sound deep-water harbour, the “New London Light” (NLL), this delectable drink is perfect for when you want to take a break from alcohol but not the ginny flavours you know and love.",
+    "size": 70,
+    "abv": 0.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/SalcombeNLL_1020x1020.png?v=1611572208",
+    "price": 30.55,
+    "origin": "Devon, England",
+    "botanicals": "Juniper, habanero and ginger along with 15 other botanicals including lemongrass, cascarilla bark, sage and orange.",
+    "tasting_notes": "The nose is bursting with bright orange, fragrant cardamom and herbaceous notes of sage and rosemary. The palate then combines a beautifully warm mix of habanero, ginger and juniper, all of which continue onto the long finish, where they are joined by star anise and sweet hints of orange along with touches of lemongrass and coriander.",
+    "perfect_gt": "Serve with your favourite premium tonic water and garnish with a slice of orange and a leaf of fresh sage.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 22,
+  "fields": {
+    "name": "Shortcross Classic Gin",
+    "bio": "Made using local botanical ingredients from the Rademon Estate and its surroundings, this gin is a celebration of the emerald isle! This seminal Irish gin is a true expression of its historic terroir!",
+    "size": 70,
+    "abv": 46.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/SHORTCROSS-CLASSIC-GIN-ABV-46-70CL_1020x1020.png?v=1591880838",
+    "price": 43.95,
+    "origin": "County Down, Northern Ireland",
+    "botanicals": "Juniper, elderflower, wild clover, apples foraged from the Rademon Estate and an number of classic London dry botanicals.",
+    "tasting_notes": "This is a classic juniper-led gin that has orange, elderberry and fresh herb notes on the nose. The palate has sweet tones of vanilla that work wonderfully with piney juniper and a light pepperiness that complements the wonderfully soft mouthfeel. Pepper continues into the finish where it is joined by fragrant orange.",
+    "perfect_gt": "Serve with a premium elderflower tonic water and twist of orange rind.",
+    "flavour": "Classic",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 23,
+  "fields": {
+    "name": "Brass Lion Pahit Pink Gin",
+    "bio": "This sumptuous pink gin is made with Brass Lion Distillery’s own Brass Lion Singapore Bitters, which gives the tipple its iconic tint and its wonderfully complex fruit and spice flavour profile. Known as Pahit Gin (“Bitter Gin”) in the Malay Archipelago, it is an utterly delicious spiced treat for the taste buds.",
+    "size": 50,
+    "abv": 45.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/BrassLion-PahitPink_1020x1020.png?v=1626793288",
+    "price": 38.0,
+    "origin": "Singapore",
+    "botanicals": "Juniper, Brass Lion Singapore Bitters, Chrysanthemum, cardamom, lime peel, galangal, ginger, orange peel, lavender, mint, lemongrass, coriander seed, Kaffir lime leaves, orris root, angelica root, lem",
+    "tasting_notes": "Warm and inviting citrus and spice notes can be found on the nose and they continue onto the palate, which has a rich juniper base and more pronounced orange and cinnamon tones. Sweet red dates and spicy ginger come through on the moreish finish.",
+    "perfect_gt": "Serve “on the rocks” or with ginger beer and a slice of fresh orange peel.",
+    "flavour": "Citrus, Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 24,
+  "fields": {
+    "name": "Batch Lime Leaf Gin",
+    "bio": "A Thai twist on their classic London Dry, this citrus-forward gin from Batch Distillery is made with lime leaves, jasmine and galangal. Those beautiful botanicals give this stunning tipple a truly unique and delectably aromatic flavour profile inspired by Thai cuisine. It’s moreish and oh-so-delicious!",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/BatchDistillery_LimeLeaf_1020x1020.png?v=1606150602",
+    "price": 35.95,
+    "origin": "Lancashire, England",
+    "botanicals": "Juniper, allspice berries, angelica, cardamom, lime leaf, cassia bark, lemongrass, cloves, myrrh, frankincense, coriander, nutmeg, orange peel and galangal.",
+    "tasting_notes": "Juniper is met by fresh citrus notes on the nose. They continue onto the palate and are joined by a gorgeous mix of citrus aromas. The finish is crisp and long-lasting.",
+    "perfect_gt": "Serve with a premium tonic water and garnish with a slice of lime.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 25,
+  "fields": {
+    "name": "Brass Lion Hopped Dry Gin",
+    "bio": "Made using Citra hops, which are known for their deliciously citrusy and aromatic flavour profile, this remarkable tipple combines some of the best elements of craft beer with the best of craft gin. This is a truly unique and utterly delicious gin from Singapore’s Brass Lion Distillery.",
+    "size": 50,
+    "abv": 40.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/BrassLion-Hopped_1020x1020.png?v=1626793235",
+    "price": 39.0,
+    "origin": "Singapore",
+    "botanicals": "Juniper, Citra hops, cinnamon, Chrysanthemum, mandarin peel, cardamom, tamarind, lime peel, cubeb berries, galangal, torch ginger flower, ginger, rosemary, orange peel, lemon peel and lavender.",
+    "tasting_notes": "Floral and citrus notes come through on the nose. On the palate, they are joined by hints of lemongrass, pepper and pink grapefruit, all of which last long into the delightfully zesty finish.",
+    "perfect_gt": "Serve with a premium yuzu tonic water and garnish with grapefruit and rosemary.",
+    "flavour": "Citrus, Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 26,
+  "fields": {
+    "name": "Shetland Reel Simmer Gin",
+    "bio": "This gin is an incredible celebration of the extended period of amber-hued twilight that the Shetland Islands experience in summer. Known as Simmer Dim, the golden colours of this extraordinary event have influenced the botanicals in this delicious gin!",
+    "size": 70,
+    "abv": 49.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/SHETLANDREELSIMMERGIN-ABV4970CL_1020x1020.png?v=1591880798",
+    "price": 34.16,
+    "origin": "Haroldswick, Shetland Islands",
+    "botanicals": "The core botanicals of this gin are juniper, liquorice, coriander, cumin and orange peel.",
+    "tasting_notes": "The nose is a deliciously heady mix of juniper and orange. Juniper then fades on the palate, giving way to sweeter liquorice and citrus notes that amount to a long-lasting and sweet finish.",
+    "perfect_gt": "Serve with a premium tonic water, a slice of orange and sprig of rosemary.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 27,
+  "fields": {
+    "name": "Blackwater Tanora Tangerine Gin",
+    "bio": "Inspired by Tanora, a soft drink loved in Cork, Ireland, this tasty craft gin from Blackwater Distillery is bursting with zesty ginger and tangerine flavours. Made with only the finest botanicals, including a dizzying amount of fresh tangerines, it’s a must-try!",
+    "size": 50,
+    "abv": 40.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Blackwater-Tangerine_1020x1020.png?v=1621523589",
+    "price": 32.77,
+    "origin": "Waterford, Ireland",
+    "botanicals": "Juniper, ginger, tangerine, coriander, cinnamon, fresh lemon and a range of eight other carefully selected botanicals.",
+    "tasting_notes": "Vibrant notes of citrus and juniper come through on the nose and continue onto the palate, where they are joined by a delicious hit of ginger and tangerine. Subtle floral tones come through on the finish along with hints of coriander and warm spice.",
+    "perfect_gt": "We recommend trying this gin with a premium ginger ale and a slice of fresh orange.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 28,
+  "fields": {
+    "name": "Cambridge Three Seasons Gin",
+    "bio": "A remarkable expression of the English garden through the seasons, this marvellous craft gin from the incredible team at Cambridge Distillery is made with lemon verbena to represent spring, rose to represent summer and blackcurrant leaf to represent autumn. Together, those flavours make for a mouthwatering gin experience like no other.",
+    "size": 70,
+    "abv": 45.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Cambridge-ThreeSeasons_1020x1020.png?v=1623666904",
+    "price": 90.0,
+    "origin": "Cambridge, England",
+    "botanicals": "Juniper, blackcurrant leaf, lemon verbena, rose and a range of other carefully selected botanicals.",
+    "tasting_notes": "Juniper and fragrant hints of lemon verbena come through on the elegant nose. They continue onto the palate where they are joined by beautiful touches of rose and blackcurrant, which last long into the finish.",
+    "perfect_gt": "This gin is fantastic enjoyed on its own with ice and is just as delicious mixed with a premium tonic water and garnished with a slice of fresh citrus fruit.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 29,
+  "fields": {
+    "name": "Tarquin's Hibiscus & Lemon Gin",
+    "bio": "This beautiful gin from Tarquin’s, the distillery behind our December 2018 Gin of the Month, is rich with elegant floral and herb notes. It’s a wonderful expression of the Cornish coast in full bloom and the perfect gin for enjoying in the sun.",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Tarquins-Hibiscus_1020x1020.png?v=1615202059",
+    "price": 36.0,
+    "origin": "Cornwall, England",
+    "botanicals": "Juniper, hibiscus petals, lemon, rose and a range of classic London Dry botanicals.",
+    "tasting_notes": "Fragrant, bright and aromatic, this gin leads with juniper and floral notes on the nose. There is a delicate sweetness on the palate, with fresh, zesty hints of citrus. The finish is long and delicious.",
+    "perfect_gt": "Serve with a premium Mediterranean tonic water and garnish with fresh strawberries.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 30,
+  "fields": {
+    "name": "Fynoderee Manx Dry Gin Summer Edition",
+    "bio": "Distilled on the Isle of Man and inspired by Manx history and folklore, this wonderful craft gin is a magnificent ode to summer on that mystical isle. Created by The Fynoderee Distillery, the team behind our June 2021 Gin of the Month, it’s made with fresh Manx strawberries.",
+    "size": 70,
+    "abv": 43.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Fynoderee-Strawberry_1020x1020.png?v=1622038015",
+    "price": 36.0,
+    "origin": "Isle of Man, UK",
+    "botanicals": "Juniper, fresh strawberries, coriander and range of other carefully selected botanicals.",
+    "tasting_notes": "Fresh, crisp juniper and sumptuous strawberries play about the nose and are joined by refreshing touches of citrus on the palate. The finish is long and rich with mouthwatering vanilla tones.",
+    "perfect_gt": "Serve with Fever-Tree Premium Indian Tonic Water and garnish with fresh strawberries, raspberries and cucumber.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 31,
+  "fields": {
+    "name": "Three Wrens Blood Orange & Apricot Gin",
+    "bio": "This beautiful, bright craft gin from Three Wrens is bursting with delightful blood orange and plump apricot flavours that are accentuated by hints of ginger. Each sip is full of mouthwatering citrus flavours that make this remarkable gin so special.",
+    "size": 70,
+    "abv": 40.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/ThreeWrens-Apricot_1020x1020.png?v=1617869459",
+    "price": 41.05,
+    "origin": "Cheshire, England",
+    "botanicals": "Juniper, blood orange, apricot, sweet grass, ginger and coriander seeds.",
+    "tasting_notes": "The nose is a symphony of vibrant, fruity orange citrus and juniper notes, all of which lead onto a palate that has delicious hints of zesty ginger and a wonderfully smooth mouthfeel. The finish is long and elegant.",
+    "perfect_gt": "This tasty tipple is perfect for using in cocktails like a Breakfast Martini and is just as good in a simple G&T with premium Mediterranean tonic water and a garnish of fresh citrus fruit.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 32,
+  "fields": {
+    "name": "Ludlow Triple Citrus and Pomegranate Gin No. 2",
+    "bio": "Known around the Ludlow distillery as the wild child, this gin, No. 2 in their range, is a fragrant and heady delight! Its unique mix of unapologetically strong triple citrus and sweet pomegranate notes make it a must-try for any true gin lover!",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/LUDLOW-TRIPLE-CITRUS-AND-POMEGRANATE-GIN-ABV-42-70CL_1020x1020.png?v=1591879913",
+    "price": 43.94,
+    "origin": "Shropshire, England",
+    "botanicals": "Juniper, coriander, angelica, orris, lemon peel, orange peel, pink grapefruit, cardamom, hibiscus and pomegranate.",
+    "tasting_notes": "Lemon, orange and cardamom notes lead the charge across your palate as pink grapefruit adds a touch of refreshment. The sweetness of the pomegranate then creates a smooth finish that stays with you from sip to sip.",
+    "perfect_gt": "If you are brave enough then we recommend trying this gin neat. It also works brilliantly with a Mediterranean or elderflower tonic water and garnished with a slice of grapefruit.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 33,
+  "fields": {
+    "name": "Four Pillars Modern Australian Gin",
+    "bio": "Made with botanicals native to Australia, this wonderful gin from Four Pillars takes inspiration from Asian cuisine, using a mix of two different varieties of Szechuan pepper, macadamia nuts and ginger, along with a range of other Australian botanicals to give you a truly remarkable craft gin.",
+    "size": 70,
+    "abv": 41.8,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/FourPillars-ModernAustralia_1020x1020.png?v=1616678823",
+    "price": 38.83,
+    "origin": "Yarra Valley, Australia",
+    "botanicals": "Juniper, red Szechuan pepper, green Szechuan pepper, apple, macadamia nuts, ginger, quandong, grapefruit peel, coriander, green cardamom, star anise, cassia, orange, angelica, lavender and pepperberry",
+    "tasting_notes": "On the nose, juniper and aromatic, citrusy spice from the Szechuan pepper lead. The palate is a wonderful medley of apple, fragrant spice, citrus and juniper that all continue into the long and delicious finish.",
+    "perfect_gt": "This gin perfect for enjoying in a cocktail but it also makes a fantastic G&T when paired with a premium tonic water and garnished with a slice of lemon.",
+    "flavour": "Citrus, Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 34,
+  "fields": {
+    "name": "Cotswolds No. 1 Wild Flower Gin",
+    "bio": "This vibrant gin is a stunning tipple inspired by the beautiful fields and meadows that surround the picturesque villages of the Cotswolds. Bursting with bright floral and zesty citrus flavours, each sip is a flavour-packed delight.",
+    "size": 70,
+    "abv": 41.8,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Cotswolds_Wildflower1-replacewith_1020x1020.png?v=1610106966",
+    "price": 38.83,
+    "origin": "Cotswolds, England",
+    "botanicals": "Juniper, lavender, cornflowers, orange, coriander, angelica and a whole range of classic London Dry botanicals.",
+    "tasting_notes": "Lavender and juniper are fragrant on the nose. They are then joined by a touch of warm pepper on the palate and fruity orange notes which become deliciously marmalade-like on the finish.",
+    "perfect_gt": "Serve with a premium tonic water and garnish with a slice of fresh orange.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 35,
+  "fields": {
+    "name": "58 Gin",
+    "bio": "Born of a passion for experimentation, the elegant, smooth and rounded 58 Gin is handmade in a railway arch in East London.",
+    "size": 70,
+    "abv": 43.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/58-dry_510x510.png?v=1597047281",
+    "price": 36.11,
+    "origin": "London, England",
+    "botanicals": "Juniper, coriander seed, orris root, angelica, cubeb pepper, egyptian lemon, pink grapefruit, bergamot, bourbon vanilla.",
+    "tasting_notes": "A beautifully smooth gin, balancing bright citrus, elegant bergamot and delicately floral flavours.",
+    "perfect_gt": "Pink grapefruit slice.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 36,
+  "fields": {
+    "name": "Spiced Cuckoo Gin",
+    "bio": "This wonderfully warm, spiced gin is perfect for enjoying on an evening after the sun has set. It’s a delectably complex craft gin made using a range of botanicals local to Brindle Distillery, where the gin made at Holmes Farm in Lancashire, along with a range of carefully selected spices including tonka bean and Tellicherry black pepper.",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Cuckoo-Spiced_1020x1020.png?v=1619519335",
+    "price": 38.0,
+    "origin": "Lancashire, England",
+    "botanicals": "Juniper, fennel, clove, lemongrass, ginger, Tellicherry black pepper, cinnamon, jasmine, tonka beans, rosehips and fig.",
+    "tasting_notes": "Juniper and warm spice flavours come through on the nose. On the palate, those rich flavours are joined by hints of citrus and floral tones. The finish is aromatic and long.",
+    "perfect_gt": "This gin is great for cocktails like a Negroni and is just as good in a G&T with premium Indian tonic water and a garnish of rosemary and whole black peppercorns.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 37,
+  "fields": {
+    "name": "Fynoderee Manx Dry Gin Kerala Chai",
+    "bio": "Made by The Fynoderee Distillery on the Isle of Man with the help of 3rd generation Keralan spice merchant and Isle of Man chef, Kumar Menon, this gorgeous craft gin is the perfect partner to Indian and Asian cuisine. It is distilled with some botanicals sourced from India and is utterly delicious.",
+    "size": 70,
+    "abv": 43.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Fynoderee-Chai_1020x1020.png?v=1622038074",
+    "price": 36.0,
+    "origin": "Isle of Man, UK",
+    "botanicals": "Himalayan juniper, single estate Assam tea blended with an exciting mix of Keralan spices and London Dry botanicals.",
+    "tasting_notes": "The nose evokes delicious aromas of Masala Chai all elevated by that quintessential hint of piney juniper. Those complex flavours continue onto the rich palate and last long into the slightly sweet, delectably warm finish.",
+    "perfect_gt": "Serve with Fever-Tree Premium Indian Tonic Water and garnish with slice of fresh lime.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 38,
+  "fields": {
+    "name": "One Gin Port Barrel Aged Gin",
+    "bio": "This unique and utterly delicious tipple from One Gin is full of warm, wintery flavours that are perfect for the festive season. Made by resting One Gin Sage in reclaimed barrels that once held port, it’s a gin that’s enriched by the beautiful notes of that famed fortified wine. Your collection would not be complete without this ruby-coloured, limited-edition gin.",
+    "size": 50,
+    "abv": 43.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/OneGinPortBarrel_1020x1020.png?v=1607596501",
+    "price": 43.44,
+    "origin": "Surrey, England",
+    "botanicals": "Juniper and English sage along with a range of classic London Dry Gin botanicals. Once distilled, the gin is then rested in reclaimed port barrels.",
+    "tasting_notes": "Juniper is joined by a joyous blend of spice, dried fruit and a hint of earthy pipe tobacco on the nose. The palate is a delectably sweet mix of biscuit and nut notes that are balanced with rich juniper and herbaceous sage flavours. The finish is long and mouth-wateringly smooth.",
+    "perfect_gt": "Serve with a premium tonic water of your choice and garnish with fresh slices of clementine and lemon.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 39,
+  "fields": {
+    "name": "Cotswolds Old Tom Gin",
+    "bio": "With its delectably soft, woody notes and a light touch of spice, this remarkable gin from the amazing team at the Cotswolds Distillery maintains and elevates the traditional characteristics of a classic Old Tom. If you have never tried an Old Tom before then this gin is a great place to start.",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Cotswolds_OldTom_1_1020x1020.png?v=1608219203",
+    "price": 38.83,
+    "origin": "Cotswolds, England",
+    "botanicals": "Juniper, caraway, orange peel, cardamom, coriander, liquorice root, angelica, ground ginger and a whole range of classic London Dry botanicals.",
+    "tasting_notes": "Juniper mixes with sweeter, woody notes on the nose while the palate enjoys a delicious combination of spice and citrus tones with a touch of liquorice. They continue through to the finish where they are joined by a delicate touch of cardamom spice.",
+    "perfect_gt": "This gin is perfect for cocktails and is also delicious served neat with a twist of fresh orange peel to garnish.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 40,
+  "fields": {
+    "name": "Rock Rose Gin Autumn Edition",
+    "bio": "Using a mix of traditional botanicals and botanicals they have grown in their on-site geodome, the wonderful team at Rock Rose Gin have managed to capture the heart-warming flavours of autumn. Each sip of this fabulous gin is bursting with autumnal berry flavours and a delectable touch of spice. Delicious!",
+    "size": 70,
+    "abv": 41.5,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/rockrose-pink_autumn_1020x1020.png?v=1596032726",
+    "price": 41.67,
+    "origin": "Caithness, Scotland",
+    "botanicals": "Juniper, blackberries, blaeberries, raspberries, nasturtium flowers, Vietnamese coriander and a range of other traditional gin botanicals.",
+    "tasting_notes": "Sweet berries grace the nose. They are then joined by juniper and spiced tones on the palate. The berry notes continue on the finish where they are elevated by lighter, fresh herb notes.",
+    "perfect_gt": "Serve with a premium tonic water and garnish with basil leaves or nasturtium flowers.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 41,
+  "fields": {
+    "name": "Sibling Negroni Gin",
+    "bio": "Famous for its delectable balance of bitter and sweet, the negroni was reportedly first mixed in 1919 for Count Camillo Negroni in Florence. Made at their distillery in the Cotswolds, Sibling Distillery has taken inspiration from that classic aperitivo cocktail to create a gin that is a wonderful taste of Italy!",
+    "size": 70,
+    "abv": 38.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/SIBLING-NEGRONI-GIN-ABV-38-70CL_1020x1020.png?v=1591880921",
+    "price": 39.95,
+    "origin": "Gloucestershire, England",
+    "botanicals": "Cracked juniper, coriander, angelica, clove, cardamom, liquorice root, orris root, blood orange, plum, Seville orange zest, lemon zest, Madagascan vanilla and a secret mix of Italian bitters and herb",
+    "tasting_notes": "Like the cocktail, this gin is full of rich bitter and sweet notes. Juniper and citrus lead on the nose, while the palate is a cacophony of spice, herb and mellow vanilla. The finish is strong, leaving you with an appetite for more.",
+    "perfect_gt": "Serve with a premium tonic water and slice of orange.",
+    "flavour": "Citrus",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 42,
+  "fields": {
+    "name": "Salcombe Gin Voyager Series 'Restless'",
+    "bio": "Developed with renowned chef Niall Keating, this vibrant gin is named after a 19th Century fruit-carrying cargo ship and has been inspired by its exotic cargo of fruits from all over the world. The first gin to be made using kombucha as a liquid botanical, this is an avant-garde tipple that should be in the collection of every true gin fanatic.",
+    "size": 50,
+    "abv": 46.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Salcombe_Gin_1020x1020.png?v=1606126432",
+    "price": 71.05,
+    "origin": "Devon, England",
+    "botanicals": "Macedonian juniper, blood orange kombucha, Chinese black dates, Asian pears, perilla leaves, Japanese salted plums, Sencha Sakura tea, fresh lime peel, kaffir lime leaf and orris root.",
+    "tasting_notes": "On the nose, toasted citrus and ripe orchard fruit notes are met by a touch of plum-fragranced salinity, rich black tea, juniper and hint of hops reminiscent of a good Californian IPA. The palate has a unique tang from the kombucha and a subtle sweetness that’s balanced with warm spice tones. The finish has a delectable, umami smokiness that is lifted by bright, citrusy lime flavours.",
+    "perfect_gt": "Serve with a premium tonic water and garnish with a slice of pear.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 43,
+  "fields": {
+    "name": "Cambridge Japanese Gin",
+    "bio": "Made using Cambridge Distillery’s groundbreaking low-temperature distillation techniques, this stunning tipple is the first-ever gin to be focused solely on Japanese botanicals. Each of their six unique Japanese ingredients is distilled separately in a vacuum in order to preserve their incredible flavours. Truly, there’s no other gin quite like it!",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Cambridge_JapaneseGin_1020x1020.png?v=1606150824",
+    "price": 72.22,
+    "origin": "Cambridge, England",
+    "botanicals": "Juniper, cucumber, shiso leaf, yuzu, sesame seeds and sansho.",
+    "tasting_notes": "The nose is a fresh bouquet of citrus, spice, juniper and cucumber notes. The cucumber and juniper tones continue onto the palate where they are joined by a refreshing yet subtle touch of peppermint and a hint of warm spiciness. Juniper and lemony citrus notes come through on the long and tasty finish.",
+    "perfect_gt": "Serve with a premium tonic water and garnish with a slice of cucumber.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 44,
+  "fields": {
+    "name": "Whitby Gin Wild Old Tom Edition",
+    "bio": "This gin is a glorious ode to the classic Old Tom of the Victorian era with a Yorkshire twist. It’s made using wild botanicals foraged from the moors and headlands around Whitby to give it a true taste of Yorkshire’s stunning coastline. No gin collection would be complete without this marvellous tipple!",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Whitby_OldTom_1020x1020.png?v=1601480253",
+    "price": 41.05,
+    "origin": "Yorkshire, England",
+    "botanicals": "Juniper, wild gorse and gooseberries along with a secret selection of traditional gin botanicals.",
+    "tasting_notes": "This gin softer and slightly sweeter than a London Dry. It’s full of mellow vanilla and nutty tones that are perfectly balanced against the tarter gooseberry flavours that join the pine of juniper on the palate. Honey then adds a floral sweetness that lasts throughout the nose and palate and long into the finish.",
+    "perfect_gt": "Serve this gin with a citrus-forward tonic water and garnish with a slice of fresh lemon peel and a sprig of fresh mint.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 45,
+  "fields": {
+    "name": "Ludlow Spiced Gin No. 3",
+    "bio": "This gin, No. 3 in Ludlow's range, is an aromatic and warm experience of eastern spice. Ludlow has succeeded in creating a remarkably well-balanced spiced tipple that is at once fragrant and evocative, complex and delicate. What a rare treat!",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/LUDLOW-SPICED-GIN-ABV-42-70CL_1020x1020.png?v=1591879875",
+    "price": 43.94,
+    "origin": "Shropshire, England",
+    "botanicals": "Juniper, coriander, angelica root, orris, lemon, orange, almond, caraway, nutmeg, ginger, cardamom, cubeb, grains of paradise, liquorice, cassia bark and elderberries.",
+    "tasting_notes": "This gin maintains its strong juniper base as a delectable array of spice flavours grace your palate. Wonderfully sweet berry notes then appear at the finish. All the tones combine to give you a truly unique gin experience.",
+    "perfect_gt": "Ginger ale works remarkably well here, especially with a slice of fig and some star anise to garnish. Delicious!",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 46,
+  "fields": {
+    "name": "Four Pillars Spiced Negroni Gin",
+    "bio": "A gin made specifically for use in a negroni, there is nothing else quite like this delicious tipple! The brainchild of a world-leading bartender and the head distiller at Four Pillars, it is a must-try gin for any budding mixologist or gin connoisseur (or anyone who loves spice forward gins for that matter!).",
+    "size": 70,
+    "abv": 43.8,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/FOUR-PILLARS-SPICED-NEGRONI-GIN-ABV-43.8-70CL_1020x1020.png?v=1591879067",
+    "price": 42.16,
+    "origin": "Yarra Valley, Australia",
+    "botanicals": "A wonderful array of classic London dry botanicals and botanicals that are native to Australia",
+    "tasting_notes": "As the name suggests, this gin is full of aromatic spice. That is then lifted by ginger and balanced against a rich juniper base.",
+    "perfect_gt": "In a negroni, of course, but this gin is also lovely with ginger ale or a premium tonic water.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 47,
+  "fields": {
+    "name": "Nelson's Timur Gin",
+    "bio": "Timur is a unique peppercorn from the mountains of Nepal that is part of the Szechuan pepper family. It imbues this tipple with a morishly fruity, peppery tang that is like nothing else we have tasted here at the club. It’s a delicious gin that is not to be missed!",
+    "size": 70,
+    "abv": 40.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/NELSON_S-TIMUR-GIN-ABV-40-70CL_510x510.png?v=1591880474",
+    "price": 45.5,
+    "origin": "Staffordshire, England",
+    "botanicals": "Nelson’s team distil their standard 27 London dry botanicals and then add the peppery Timur oil.",
+    "tasting_notes": "Timur is not overtly peppery as might be expected, instead it’s subtler, aromatic pepper flavour has tones of grapefruit. The pepper then leaves an enjoyable tingly feeling on your tongue. There is nothing else quite like it!",
+    "perfect_gt": "This gin is best coupled with a premium tonic water and a slice of grapefruit and a couple of whole black peppercorns to garnish.",
+    "flavour": "Spiced",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 48,
+  "fields": {
+    "name": "Warner's Rhubarb Gin",
+    "bio": "This delightful pink gin, the first rhubarb gin ever, was inspired by the first crop of rhubarb to be grown in Queen Victoria’s own kitchen garden. That unique tart flavour that we know and love is brought out so wonderfully in this gin. Take one sip and feel the joyful nostalgia of rhubarb and custard sweets and rhubarb crumbles wash over you!",
+    "size": 70,
+    "abv": 40.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/WARNER_S-RHUBARB-GIN-ABV-40-70CL_510x510.png?v=1628522516",
+    "price": 37.77,
+    "origin": "Northamptonshire, England",
+    "botanicals": "Juniper, freshly pressed rhubarb juice, coriander seed, cardamom, cinnamon, orange peel, elderflower, black pepper, angelica root and lemon peel.",
+    "tasting_notes": "The nose is a tangy and warm mix of rhubarb and black pepper. The palate is a complex and wonderfully rich combination of rhubarb, cardamom and sweet orange tones. Rhubarb is then joined by cinnamon spice for a delightful finish.",
+    "perfect_gt": "We love to serve this gin with ginger ale and a slice of orange. It also works great with a premium Mediterranean tonic water.",
+    "flavour": "Fruit",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 49,
+  "fields": {
+    "name": "Sunshine Cuckoo Gin",
+    "bio": "This utterly delicious gin is made with plump raspberries and natural honey produced at Holmes Farm, the home of Brindle Distillery, where this gin is made. It’s a delectably fruity tipple that has hints of almond and vanilla which add a lovely, summery creaminess that is wonderfully moreish.",
+    "size": 70,
+    "abv": 40.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Cuckoo-sunshine_1020x1020.png?v=1619519350",
+    "price": 38.0,
+    "origin": "Lancashire, England",
+    "botanicals": "Juniper, honey, raspberries, lemon, vanilla, angelica, almond, orris, orange and cinnamon.",
+    "tasting_notes": "Juniper and fruity raspberry notes come through on the nose and continue onto the palate, where a delicious sweetness can be found along with juicy berry flavours and mellow almond and vanilla tones that last long into the luxuriously sunny finish.",
+    "perfect_gt": "This gin is best served over lots of ice with a good Mediterranean tonic water and a garnish of fresh strawberries, lemon peel and thyme.",
+    "flavour": "Fruit",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 50,
+  "fields": {
+    "name": "Blackwater Wexford Strawberry Irish Gin",
+    "bio": "From the incredible Blackwater Distillery in Ireland comes this beautiful gin that’s suffused with delightful strawberry flavours. Made with plump strawberries grown in Co. Wexford and no added sweeteners or sugar, it’s a pink-hued gin of remarkable quality that’s perfect for sipping through summer and beyond.",
+    "size": 50,
+    "abv": 40.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/Blackwater-Strawberry_1020x1020.png?v=1621515837",
+    "price": 30.55,
+    "origin": "Waterford, Ireland",
+    "botanicals": "Juniper, strawberries, cinnamon, fresh lemon, coriander and range of eight other carefully selected botanicals.",
+    "tasting_notes": "Rich and fruity on the nose, this gin then has a perfectly balanced palate that’s full of strawberry and juniper notes that are complemented by floral tones and hints of citrus. They all last long into the finish, where they are joined by sumptuous touches of spice.",
+    "perfect_gt": "This gin is fantastic with a premium tonic water, garnished with fresh basil, strawberries and black peppercorns.",
+    "flavour": "Fruit",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 51,
+  "fields": {
+    "name": "Salcombe Gin Rosé Sainte Marie",
+    "bio": "Distilled on England’s south coast but inspired by the South of France, this blushing pink gin encapsulates the vibrant spirit of the Mediterranean. With no added sugar, it is refreshingly dry and beautifully aromatic.",
+    "size": 70,
+    "abv": 41.4,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/SALCOMBE-GIN-ROSA-SAINTE-MARIE-70CL_1020x1020.png?v=1591880663",
+    "price": 44.0,
+    "origin": "Devon, England",
+    "botanicals": "Juniper, lemon peel, orange peel, lemon verbena, rose petals, orange blossom, pink peppercorns, strawberries, angelica - and six other secret ingredients.",
+    "tasting_notes": "Notes of lemon and Provence herbs complement the natural, soft sweetness of strawberries and angelica.",
+    "perfect_gt": "Strawberry slices or lemon peel twist.",
+    "flavour": "Fruit",
+    "liked_by": []
   }
 }
 ]

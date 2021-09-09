@@ -56,7 +56,7 @@ class GinLikeView(APIView):
 
     permission_classes = (IsAuthenticated, )
 
-    def post(self, request, character_pk):
+    def post(self, request, gin_pk):
         try:
             gin_to_like = Gin.objects.get(pk=gin_pk)
         except Gin.DoesNotExist:

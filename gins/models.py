@@ -1,4 +1,5 @@
 from django.db import models
+from django.core.validators import MaxValueValidator
 
 # Create your models here.
 class Gin(models.Model):
@@ -24,6 +25,7 @@ class Gin(models.Model):
 
 class Comment(models.Model):
     text = models.TextField(max_length=300)
+    rated = models.PositiveIntegerField(default=10, validators=[MaxValueValidator(10)])
     created_at = models.DateTimeField(auto_now_add=True)
     gin = models.ForeignKey(
         Gin,

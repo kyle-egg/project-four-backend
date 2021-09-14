@@ -3,7 +3,7 @@ import rest_framework
 from rest_framework import serializers
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from rest_framework.exceptions import PermissionDenied
+from rest_framework.exceptions import PermissionDenied, NotFound
 from rest_framework.permissions import IsAuthenticated
 from rest_framework import status
 from django.contrib.auth import get_user_model
@@ -58,4 +58,22 @@ class ProfileView(APIView):
 
     def get(self, request):
         serialized_user = UserProfileSerializer(request.user)
+        return Response(serialized_user.data, status=status.HTTP_200_OK)
+
+class ProfileDetailView(APIView):
+    
+    permission_classes = (IsAuthenticated, )
+
+    def get_user(self, pk):
+  
+        """ retrives user from db by its pk(id) or responds 404 not found """
+
+        try:
+            return User.objects.get(pk=pk)
+        except User.DoesNotExist:
+            raise NotFound()
+
+    def get(self, _request, pk):
+        user = self.get_user(pk=pk)
+        serialized_user = UserProfileSerializer(user)
         return Response(serialized_user.data, status=status.HTTP_200_OK)

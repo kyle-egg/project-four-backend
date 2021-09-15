@@ -14,6 +14,7 @@ class Gin(models.Model):
     tasting_notes = models.TextField(max_length=500)
     perfect_gt = models.CharField(max_length=200)
     flavour = models.CharField(max_length=50)
+    is_premium = models.BooleanField()
     liked_by = models.ManyToManyField(
         'jwt_auth.User',
         related_name='liked_gins',

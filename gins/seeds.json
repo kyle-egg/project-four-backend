@@ -67,7 +67,7 @@
     "botanicals": "Juniper, elderflower, pink grapefruit and a range of classic London Dry botanicals.",
     "tasting_notes": "Juniper is accompanied by mouthwatering floral and citrus notes on the nose. Elderflower and zesty pink grapefruit flavours can be found on the palate along with a hint of Eastern spice. The finish is crisp and tart and wonderfully fragrant.",
     "perfect_gt": "Serve with a premium elderflower tonic water and garnish with fresh pink grapefruit.",
-    "flavour": "Citrus, Fruit",
+    "flavour": "Citrus, Fruit, Floral",
     "liked_by": []
   }
 },
@@ -104,7 +104,9 @@
     "tasting_notes": "Juniper-forward throughout, this gin has a wonderfully fragrant nose. On the smooth palate, juniper is joined by hints of coriander, citrus and subtle floral notes. The finish is warm with long-lasting touches of spice.",
     "perfect_gt": "This gin is great for cocktails and is just as delicious with a premium tonic water and garnished with fresh lime.",
     "flavour": "Classic",
-    "liked_by": []
+    "liked_by": [
+      2
+    ]
   }
 },
 {
@@ -121,7 +123,7 @@
     "botanicals": "Juniper, grapefruit, lavender, coriander and pink peppercorns.",
     "tasting_notes": "Citrus, floral touches of lavender and juniper come through on the nose and continue through to the palate, where they are met by mouthwatering pink peppercorn notes. The finish is long and delicious.",
     "perfect_gt": "Serve this gin with a premium tonic water and garnish with a grapefruit peel. It’s also perfect for a Martinis.",
-    "flavour": "Classic",
+    "flavour": "Classic, Floral",
     "liked_by": []
   }
 },
@@ -266,7 +268,9 @@
     "tasting_notes": "Notes of fresh hey and green citrus come through on the nose and are joined by a rich hit of juniper on the palate. Herbaceous tones come through in the long, sumptuous finish.",
     "perfect_gt": "Serve with a premium elderflower tonic water and garnish with a slice of apple.",
     "flavour": "Classic",
-    "liked_by": []
+    "liked_by": [
+      2
+    ]
   }
 },
 {
@@ -301,7 +305,7 @@
     "botanicals": "Juniper, lavender, cardamom, lemon, rose-flower, grape and rosemary.",
     "tasting_notes": "Floral notes are accompanied by juniper and woody herb tones on the nose. They all continue onto the bright and warm palate, where they are met by touches of citrus. The finish is long and delightfully fragrant.",
     "perfect_gt": "Serve with a premium Mediterranean tonic water and a garnish with lemon and rosemary.",
-    "flavour": "Classic",
+    "flavour": "Classic, Floral",
     "liked_by": []
   }
 },
@@ -356,7 +360,9 @@
     "tasting_notes": "The nose is bursting with bright orange, fragrant cardamom and herbaceous notes of sage and rosemary. The palate then combines a beautifully warm mix of habanero, ginger and juniper, all of which continue onto the long finish, where they are joined by star anise and sweet hints of orange along with touches of lemongrass and coriander.",
     "perfect_gt": "Serve with your favourite premium tonic water and garnish with a slice of orange and a leaf of fresh sage.",
     "flavour": "Classic",
-    "liked_by": []
+    "liked_by": [
+      2
+    ]
   }
 },
 {
@@ -410,7 +416,9 @@
     "tasting_notes": "Juniper is met by fresh citrus notes on the nose. They continue onto the palate and are joined by a gorgeous mix of citrus aromas. The finish is crisp and long-lasting.",
     "perfect_gt": "Serve with a premium tonic water and garnish with a slice of lime.",
     "flavour": "Citrus",
-    "liked_by": []
+    "liked_by": [
+      2
+    ]
   }
 },
 {
@@ -427,7 +435,7 @@
     "botanicals": "Juniper, Citra hops, cinnamon, Chrysanthemum, mandarin peel, cardamom, tamarind, lime peel, cubeb berries, galangal, torch ginger flower, ginger, rosemary, orange peel, lemon peel and lavender.",
     "tasting_notes": "Floral and citrus notes come through on the nose. On the palate, they are joined by hints of lemongrass, pepper and pink grapefruit, all of which last long into the delightfully zesty finish.",
     "perfect_gt": "Serve with a premium yuzu tonic water and garnish with grapefruit and rosemary.",
-    "flavour": "Citrus, Spiced",
+    "flavour": "Citrus, Spiced, Floral",
     "liked_by": []
   }
 },
@@ -499,7 +507,7 @@
     "botanicals": "Juniper, hibiscus petals, lemon, rose and a range of classic London Dry botanicals.",
     "tasting_notes": "Fragrant, bright and aromatic, this gin leads with juniper and floral notes on the nose. There is a delicate sweetness on the palate, with fresh, zesty hints of citrus. The finish is long and delicious.",
     "perfect_gt": "Serve with a premium Mediterranean tonic water and garnish with fresh strawberries.",
-    "flavour": "Citrus",
+    "flavour": "Citrus, Floral",
     "liked_by": []
   }
 },
@@ -589,7 +597,7 @@
     "botanicals": "Juniper, lavender, cornflowers, orange, coriander, angelica and a whole range of classic London Dry botanicals.",
     "tasting_notes": "Lavender and juniper are fragrant on the nose. They are then joined by a touch of warm pepper on the palate and fruity orange notes which become deliciously marmalade-like on the finish.",
     "perfect_gt": "Serve with a premium tonic water and garnish with a slice of fresh orange.",
-    "flavour": "Citrus",
+    "flavour": "Citrus, Floral",
     "liked_by": []
   }
 },
@@ -607,7 +615,7 @@
     "botanicals": "Juniper, coriander seed, orris root, angelica, cubeb pepper, egyptian lemon, pink grapefruit, bergamot, bourbon vanilla.",
     "tasting_notes": "A beautifully smooth gin, balancing bright citrus, elegant bergamot and delicately floral flavours.",
     "perfect_gt": "Pink grapefruit slice.",
-    "flavour": "Citrus",
+    "flavour": "Citrus, Floral",
     "liked_by": []
   }
 },
@@ -769,7 +777,7 @@
     "botanicals": "Juniper, wild gorse and gooseberries along with a secret selection of traditional gin botanicals.",
     "tasting_notes": "This gin softer and slightly sweeter than a London Dry. It’s full of mellow vanilla and nutty tones that are perfectly balanced against the tarter gooseberry flavours that join the pine of juniper on the palate. Honey then adds a floral sweetness that lasts throughout the nose and palate and long into the finish.",
     "perfect_gt": "Serve this gin with a citrus-forward tonic water and garnish with a slice of fresh lemon peel and a sprig of fresh mint.",
-    "flavour": "Spiced",
+    "flavour": "Spiced, Floral",
     "liked_by": []
   }
 },
@@ -895,8 +903,187 @@
     "botanicals": "Juniper, lemon peel, orange peel, lemon verbena, rose petals, orange blossom, pink peppercorns, strawberries, angelica - and six other secret ingredients.",
     "tasting_notes": "Notes of lemon and Provence herbs complement the natural, soft sweetness of strawberries and angelica.",
     "perfect_gt": "Strawberry slices or lemon peel twist.",
-    "flavour": "Fruit",
+    "flavour": "Fruit, Floral",
     "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 52,
+  "fields": {
+    "name": "Dà Mhìle Distillery Organic Gin",
+    "bio": "Made with 18 different botanicals, each sip of this gorgeous, organic gin is rich with complex and utterly delicious botanical flavours. Created by Dà Mhìle Distillery, an independent, award-winning, farmhouse distillery in west Wales, it’s a truly extraordinary gin.",
+    "size": 70,
+    "abv": 42.0,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/DaMhile_350x350.png?v=1606486403",
+    "price": 39.94,
+    "origin": "Ceredigion, Wales",
+    "botanicals": "Juniper and a range of other classic London Dry botanicals.",
+    "tasting_notes": "The nose is a delightful symphony of juniper and fresh green herbs. They are joined on the palate by lovely warm spices and a hint of liquorice. The finish is then brimming with delightful floral tones.",
+    "perfect_gt": "Serve with a premium Mediterranean tonic water and garnish with fresh seasonal herbs of your choice.",
+    "flavour": "Herbs",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.gin",
+  "pk": 53,
+  "fields": {
+    "name": "Four Pillars Olive Leaf Gin",
+    "bio": "This savoury delight from the remarkable distillers at Four Pillers in Australia’s stunning Yarra Valley is made with olive leaf tea and three different types of cold-pressed extra virgin olive oil from the Cobram Estate in Victoria. It’s an utterly divine craft gin with a sumptuous texture that’s like no other.",
+    "size": 70,
+    "abv": 43.8,
+    "image": "https://cdn.shopify.com/s/files/1/0094/7319/6090/products/FourPillars_OliveLeaf_350x350.png?v=1617869579",
+    "price": 46.67,
+    "origin": "Yarra Valley, Australia",
+    "botanicals": "Juniper, olive leaf tea, olive oil, bay leaf, lemon, grapefruit, rosemary, macadamia nut, coriander, lemon myrtle, lavender and orris root.",
+    "tasting_notes": "The nose is full of rich juniper, herb and olive notes, all of which continue onto the palate, which has a beautiful mouthfeel. The finish is long and elegant.",
+    "perfect_gt": "Serve with a premium tonic water of your choice and garnish with a sprig of rosemary and a slice of fresh lemon.",
+    "flavour": "Herbs",
+    "liked_by": []
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 1,
+  "fields": {
+    "text": "This Gin is the Bomb",
+    "rated": 8,
+    "created_at": "2021-09-12T14:11:10.855Z",
+    "gin": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 2,
+  "fields": {
+    "text": "ANOTHER ONE!",
+    "rated": 10,
+    "created_at": "2021-09-12T14:13:18.239Z",
+    "gin": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 3,
+  "fields": {
+    "text": "ANOTHER ONE!",
+    "rated": 9,
+    "created_at": "2021-09-12T14:14:01.599Z",
+    "gin": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 4,
+  "fields": {
+    "text": "test",
+    "rated": 8,
+    "created_at": "2021-09-12T14:15:49.331Z",
+    "gin": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 5,
+  "fields": {
+    "text": "e",
+    "rated": 10,
+    "created_at": "2021-09-12T14:42:22.677Z",
+    "gin": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 6,
+  "fields": {
+    "text": "99",
+    "rated": 10,
+    "created_at": "2021-09-12T14:42:29.647Z",
+    "gin": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 7,
+  "fields": {
+    "text": "BOOO",
+    "rated": 1,
+    "created_at": "2021-09-13T09:17:47.998Z",
+    "gin": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 8,
+  "fields": {
+    "text": "Yeeeah boooy",
+    "rated": 8,
+    "created_at": "2021-09-14T13:55:15.334Z",
+    "gin": 1,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 9,
+  "fields": {
+    "text": "Hello",
+    "rated": 4,
+    "created_at": "2021-09-14T18:36:36.559Z",
+    "gin": 2,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 10,
+  "fields": {
+    "text": "srgfsrg",
+    "rated": 10,
+    "created_at": "2021-09-14T18:37:46.617Z",
+    "gin": 2,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 11,
+  "fields": {
+    "text": "srgfsrgf",
+    "rated": 9,
+    "created_at": "2021-09-14T18:37:56.178Z",
+    "gin": 2,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 12,
+  "fields": {
+    "text": "srgfsrgf",
+    "rated": 9,
+    "created_at": "2021-09-14T18:37:57.814Z",
+    "gin": 2,
+    "owner": 2
+  }
+},
+{
+  "model": "gins.comment",
+  "pk": 13,
+  "fields": {
+    "text": "srgfsrgf",
+    "rated": 9,
+    "created_at": "2021-09-14T18:38:02.071Z",
+    "gin": 2,
+    "owner": 2
   }
 }
 ]
